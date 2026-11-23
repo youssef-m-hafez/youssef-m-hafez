@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hi ther# Hi, I'm Youssef 👋
+
+Computer Science student (Class of 2027)
+
+## About me
+- 🎓 Studying Computer & Information Sciences
+- 💻 Interested in: [مثلاً Web Development / Python / AI]
+- 🌱 Currently learning: [حاجة بتتعلمها دلوقتي]
+- 📫 Reach me: [LinkedIn link]
+
+## Skills
+[Python, HTML, CSS, JavaScript, SQL, Git]
+
+## Featured Projects
+- [Project Name](رابط الـ repo) - وصف في سطر واحد
+- [Project Name](رابط الـ repo) - وصف في سطر واحدe 👋
 
 <!--
 **youssef-m-hafez/youssef-m-hafez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
